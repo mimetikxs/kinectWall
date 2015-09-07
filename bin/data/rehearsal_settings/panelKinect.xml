@@ -1,0 +1,29 @@
+<kinect>
+	<roi>
+		<top>0</top>
+		<bottom>480</bottom>
+		<left>0</left>
+		<right>640</right>
+	</roi>
+	<clipping>
+		<walls>
+			<near>1.5</near>
+			<far>4.2</far>
+			<left>0.688463</left>
+			<right>0.750937</right>
+			<top>0.625989</top>
+			<bottom>1.2</bottom>
+		</walls>
+		<position>
+			<pos_x>0</pos_x>
+			<pos_y>0</pos_y>
+			<pos_z>0</pos_z>
+		</position>
+		<rotaion>
+			<rot_x>0</rot_x>
+			<rot_y>0</rot_y>
+			<rot_z>0</rot_z>
+		</rotaion>
+	</clipping>
+	<fov>60</fov>
+</kinect>

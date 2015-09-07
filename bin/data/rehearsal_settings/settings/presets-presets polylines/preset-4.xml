@@ -1,0 +1,20 @@
+<polyline_presets>
+	<polyline>
+		<simplification>0.408163</simplification>
+		<smoothing_size>2.53061</smoothing_size>
+		<min_area>595.918</min_area>
+		<center_smooth>0.5</center_smooth>
+	</polyline>
+	<poluline_render>
+		<enabled>1</enabled>
+		<inwards>0</inwards>
+		<scale_speed>0.05</scale_speed>
+		<delay>1</delay>
+		<use_mask>0</use_mask>
+		<use_buffer>1</use_buffer>
+		<use_filed>1</use_filed>
+		<opacity>0</opacity>
+		<line_width>1.45714</line_width>
+		<color_type>2</color_type>
+	</poluline_render>
+</polyline_presets>

@@ -1,0 +1,8 @@
+<fluid_parameters>
+	<ink_pct>0.28</ink_pct>
+	<vel_pct>0.244</vel_pct>
+	<disipation>0.924</disipation>
+	<vel_disipation>0.988</vel_disipation>
+	<gravity>0</gravity>
+	<color>255, 100, 0, 255</color>
+</fluid_parameters>

@@ -1,0 +1,11 @@
+<optical_flow>
+	<optical_flow/>
+	<pyrScale>0.5</pyrScale>
+	<levels>4</levels>
+	<winsize>8</winsize>
+	<iterations>2</iterations>
+	<polyN>7</polyN>
+	<polySigma>1.5</polySigma>
+	<FARNEBACK_GAUSSIAN>0</FARNEBACK_GAUSSIAN>
+	<blur_size>39</blur_size>
+</optical_flow>

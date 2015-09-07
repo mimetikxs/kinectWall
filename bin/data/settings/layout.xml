@@ -1,0 +1,54 @@
+<layout>
+	<panel name="input">
+		<x>12</x>
+		<y>606</y>
+	</panel>
+	<panel name="optical flow">
+		<x>10</x>
+		<y>10</y>
+	</panel>
+	<panel name="force field">
+		<x>10</x>
+		<y>10</y>
+	</panel>
+	<panel name="contours">
+		<x>318</x>
+		<y>16</y>
+	</panel>
+	<panel name="physics">
+		<x>586</x>
+		<y>15</y>
+	</panel>
+	<panel name="layer">
+		<x>10</x>
+		<y>10</y>
+	</panel>
+	<panel name="debug">
+		<x>10</x>
+		<y>10</y>
+	</panel>
+	<panel name="panel manager">
+		<x>1173</x>
+		<y>92</y>
+	</panel>
+	<panel name="frame diff">
+		<x>15</x>
+		<y>281</y>
+	</panel>
+	<panel name="fluid">
+		<x>14</x>
+		<y>376</y>
+	</panel>
+	<panel name="presets physics">
+		<x>1175</x>
+		<y>283</y>
+	</panel>
+	<panel name="presets polylines">
+		<x>1176</x>
+		<y>353</y>
+	</panel>
+	<panel name="presets fluid">
+		<x>1173</x>
+		<y>423</y>
+	</panel>
+</layout>

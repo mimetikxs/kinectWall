@@ -1,0 +1,74 @@
+<map>
+	<link>
+		<address>/enableAttractorBar</address>
+		<param>enabled-4</param>
+	</link>
+	<link>
+		<address>/flow/strength</address>
+		<param>flow scale-0</param>
+	</link>
+	<link>
+		<address>/noise/strength</address>
+		<param>noise scale-0</param>
+	</link>
+	<link>
+		<address>/preset1</address>
+		<param>preset 0-0</param>
+	</link>
+	<link>
+		<address>/preset10</address>
+		<param>preset 4-0</param>
+	</link>
+	<link>
+		<address>/preset2</address>
+		<param>preset 1-0</param>
+	</link>
+	<link>
+		<address>/preset3</address>
+		<param>preset 2-0</param>
+	</link>
+	<link>
+		<address>/preset4</address>
+		<param>preset 3-0</param>
+	</link>
+	<link>
+		<address>/preset5</address>
+		<param>preset 5-0</param>
+	</link>
+	<link>
+		<address>/preset6</address>
+		<param>preset 6-0</param>
+	</link>
+	<link>
+		<address>/preset7</address>
+		<param>preset 7-0</param>
+	</link>
+	<link>
+		<address>/preset8</address>
+		<param>preset 8-0</param>
+	</link>
+	<link>
+		<address>/preset9</address>
+		<param>preset 9-0</param>
+	</link>
+	<link>
+		<address>/presetPoly1</address>
+		<param>preset 0-1</param>
+	</link>
+	<link>
+		<address>/presetPoly2</address>
+		<param>preset 1-1</param>
+	</link>
+	<link>
+		<address>/presetPoly3</address>
+		<param>preset 2-1</param>
+	</link>
+	<link>
+		<address>/presetPoly5</address>
+		<param>preset 4-1</param>
+	</link>
+	<link>
+		<address>/presetsPoly4</address>
+		<param>preset 3-1</param>
+	</link>
+</map>

@@ -1,0 +1,10 @@
+<panel_manager>
+	<debug>1</debug>
+	<physics>1</physics>
+	<optical_flow>1</optical_flow>
+	<force_field>1</force_field>
+	<contours>1</contours>
+	<input>1</input>
+	<layer>0</layer>
+	<homography>0</homography>
+</panel_manager>

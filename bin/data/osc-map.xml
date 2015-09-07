@@ -1,0 +1,10 @@
+<map>
+	<link>
+		<address>/flow/strength</address>
+		<param>flow scale-0</param>
+	</link>
+	<link>
+		<address>/noise/strength</address>
+		<param>noise scale-0</param>
+	</link>
+</map>

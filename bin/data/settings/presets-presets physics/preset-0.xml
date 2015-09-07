@@ -1,0 +1,31 @@
+<physics_parameters>
+	<force_field>
+		<flow_smooth>1</flow_smooth>
+		<flow_min_threshold>0</flow_min_threshold>
+		<flow_scale>7.95918</flow_scale>
+		<noise_scale>0</noise_scale>
+	</force_field>
+	<physics>
+		<physics_environment>
+			<enabled>1</enabled>
+			<stepSize>1</stepSize>
+			<gravity>-0.01</gravity>
+			<drag>0.999</drag>
+			<life>100</life>
+			<mass>1</mass>
+		</physics_environment>
+		<emitter_blob>
+			<enabled>1</enabled>
+			<emit_rate>200</emit_rate>
+			<randomnes>0</randomnes>
+		</emitter_blob>
+		<rendering>
+			<vel_coloring>1</vel_coloring>
+			<vel_color_limit>1</vel_color_limit>
+			<color_1>1, 0, 0.1, 1</color_1>
+			<color_2>0.1, 0.3, 1, 1</color_2>
+			<line_width>2</line_width>
+		</rendering>
+	</physics>
+	<trails>200</trails>
+</physics_parameters>

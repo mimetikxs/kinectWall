@@ -1,0 +1,15 @@
+<input>
+	<roi>
+		<top.>0</top.>
+		<bottom.>1</bottom.>
+		<left.>0</left.>
+		<right.>1</right.>
+	</roi>
+	<blob_cleaning>
+		<thresh_min>1000</thresh_min>
+		<thresh_max>2000</thresh_max>
+		<erosion_radius>0</erosion_radius>
+	<dilation_radius>0</dilation_radius>
+	</blob_cleaning>
+<input/>
+</input>

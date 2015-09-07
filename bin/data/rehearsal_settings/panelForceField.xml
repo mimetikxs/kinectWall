@@ -1,0 +1,7 @@
+<force_field>
+	<force_field/>
+	<flow_smooth>0.269388</flow_smooth>
+	<flow_min_threshold>0</flow_min_threshold>
+	<flow_scale>0.408163</flow_scale>
+	<noise_scale>0</noise_scale>
+</force_field>

@@ -1,0 +1,22 @@
+<contours>
+	<polyline>
+		<simplification>0.408163</simplification>
+		<smoothing_size>2.53061</smoothing_size>
+		<min_area>595.918</min_area>
+		<center_smooth>0.5</center_smooth>
+	</polyline>
+<contours/>
+<poluline_render>
+		<inwards>0</inwards>
+		<scale_speed>0.0122449</scale_speed>
+		<delay>1</delay>
+		<use_mask>1</use_mask>
+		<use_filed>1</use_filed>
+		<enabled>0</enabled>
+		<color_type>2</color_type>
+	<line_width>1.53878</line_width>
+	<UnknownName>0</UnknownName>
+		<opacity>83</opacity>
+	<use_buffer>1</use_buffer>
+	</poluline_render>
+</contours>

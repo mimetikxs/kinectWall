@@ -1,0 +1,69 @@
+<physics_parameters>
+	<force_field>
+		<flow_smooth>0.269388</flow_smooth>
+		<flow_min_threshold>0</flow_min_threshold>
+		<flow_scale>4.08163</flow_scale>
+		<noise_scale>0</noise_scale>
+	</force_field>
+	<physics>
+		<attractor_follows>1</attractor_follows>
+		<physics_environment>
+			<enabled>1</enabled>
+			<stepSize>0.475219</stepSize>
+			<gravity>-0.962099</gravity>
+			<drag>0.887547</drag>
+			<life>92.9533</life>
+			<mass>1</mass>
+		</physics_environment>
+		<emitter_circle>
+			<enabled>1</enabled>
+			<emit_rate>160.183</emit_rate>
+			<radius_min>620.658</radius_min>
+			<radius_max>699.001</radius_max>
+		</emitter_circle>
+		<emitter_bar>
+			<enabled>0</enabled>
+			<emit_rate>200</emit_rate>
+			<size>1000</size>
+			<angle>0</angle>
+		</emitter_bar>
+		<emitter_blob>
+			<enabled>0</enabled>
+			<emit_rate>200</emit_rate>
+			<randomnes>0</randomnes>
+		</emitter_blob>
+		<attractor_circle>
+			<enabled>1</enabled>
+			<strength>100</strength>
+			<mass>850.078</mass>
+			<near_dist>210.537</near_dist>
+			<far_dist>150.771</far_dist>
+			<ignore_outliers>0</ignore_outliers>
+			<spinning>1.68265</spinning>
+			<reverse_spinning>0</reverse_spinning>
+		</attractor_circle>
+		<attractor_bar>
+			<enabled>0</enabled>
+			<strength>0.4</strength>
+			<mass>1</mass>
+			<near_dist>50</near_dist>
+			<far_dist>600</far_dist>
+			<ignore_outliers>1</ignore_outliers>
+			<size>10</size>
+			<angle>0</angle>
+		</attractor_bar>
+		<rendering>
+			<vel_coloring>0</vel_coloring>
+			<vel_color_limit>6.83065</vel_color_limit>
+			<color_1>1, 0, 0.1, 1</color_1>
+			<color_2>0.1, 0.145764, 1, 1</color_2>
+			<line_width>2</line_width>
+		</rendering>
+	</physics>
+	<position_emitter_circle>645, 400, 0</position_emitter_circle>
+	<position_emitter_bar>960, 540, 0</position_emitter_bar>
+	<position_emitter_blob>960, 540, 0</position_emitter_blob>
+	<position_attractor_circle>630.418, 575.341, 0</position_attractor_circle>
+	<position_attractor_bar>766, 201, 0</position_attractor_bar>
+	<trails>49.98</trails>
+</physics_parameters>

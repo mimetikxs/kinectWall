@@ -1,0 +1,23 @@
+<physics>
+	<physics/>
+	<physics_environment>
+		<enabled>1</enabled>
+		<stepSize>0.0462306</stepSize>
+		<gravity>0</gravity>
+		<drag>0.673053</drag>
+		<life>18.059</life>
+		<mass>2.67763</mass>
+	</physics_environment>
+	<emitter_blob>
+		<enabled>1</enabled>
+		<emit_rate>600</emit_rate>
+		<randomnes>1</randomnes>
+	</emitter_blob>
+	<rendering>
+		<vel_coloring>0</vel_coloring>
+		<vel_color_limit>1</vel_color_limit>
+		<color_1>0.740754, 0.498508, 1, 1</color_1>
+		<color_2>0.128764, 0.808753, 1, 1</color_2>
+		<line_width>2.6364</line_width>
+	</rendering>
+</physics>

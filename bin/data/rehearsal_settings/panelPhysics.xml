@@ -1,0 +1,31 @@
+<physics>
+	<group>
+		<physics_environment>
+			<gravity>-0.01</gravity>
+			<drag>0.793836</drag>
+			<life>100</life>
+			<mass>1</mass>
+		</physics_environment>
+		<emitter_001>
+			<emit_rate>200</emit_rate>
+			<radius_min>10</radius_min>
+			<radius_max>1000</radius_max>
+		<enabled>1</enabled>
+		</emitter_001>
+		<attractor_002>
+			<strength>61.6826</strength>
+			<mass>1000</mass>
+			<near_dist>200.749</near_dist>
+			<far_dist>483.965</far_dist>
+			<enabled>1</enabled>
+			<ignore_outliers>0</ignore_outliers>
+		</attractor_002>
+		<rendering>
+			<max_vel_limit>1</max_vel_limit>
+		<vel_color_limit>1</vel_color_limit>
+			<color_1>1, 0, 0.1, 1</color_1>
+			<color_2>0.1, 0.3, 1, 1</color_2>
+		</rendering>
+	</group>
+<physics/>
+</physics>
